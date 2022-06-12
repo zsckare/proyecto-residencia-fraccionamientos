@@ -1,0 +1,85 @@
+﻿<div id="listas" style="margin-top:1.2em">
+    <div class="input-group rounded">
+        <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+        <span class="input-group-text border-0" id="search-addon">
+            <i class="fas fa-search"></i>
+        </span>
+    </div>
+    <br />
+    <br />
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title"style="color: #00BFFF "><i class="fas fa-clipboard-list"></i> Lista Negra</h5>
+
+            <div class="card-text">
+                <table class="table">
+                    <thead>
+                        <tr style="color: #00008B">
+                            <th scope="col">#</th>
+                            <th scope="col">Matrícula</th>
+                            <th scope="col">Marca</th>
+                            <th scope="col">Modelo</th>
+                            <th scope="col">Color</th>
+                            <th scope="col">Propietario</th>
+                            <th scope="col"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="(user,index) in listas" :key="index">
+                            <td>{{idVehiculo}}</td>
+                            <td>{{user.Matricula}}</td>
+                            <td>{{user.Marca}}</td>
+                            <td>{{user.Modelo}}</td>
+                            <td>{{user.Color}}</td>
+                            <td>{{user.Propietario}}</td>
+                            <td>
+                                <div class="btn bg-info" v-on:click="deleteUser(user.idVehiculo)">
+                                    <i class="fas fa-trash"></i>
+                                </div>
+                            </td>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+    @section Scripts{
+
+        <script>
+            Vue.createApp({
+                data() {
+                    return {
+                        message: 'Hello Vue!',
+                        listas: [],
+                        lista: { Matricula: "", Marca: "", Modelo: "", Color: "", Propietario: "" }
+                    }
+                },
+                created() {
+                    this.getLists()
+                },
+                methods: {
+
+                    getLists() {
+                        axios.get("/Api/Lists").then(res => {
+                            console.log(res)
+                            this.listas = res.data
+                        }).catch((error) => console.error(error))
+                    },
+                    deleteUser(id) {
+                        axios.delete("/Api/Lists/" + id).then((res) => {
+                            console.log(res)
+                            this.getLists()
+                        }).catch((error) => console.error(error))
+                    }
+                }
+
+            }).mount('#listas')
+        </script>
+    }
+
+

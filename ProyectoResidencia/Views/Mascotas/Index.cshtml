@@ -1,0 +1,89 @@
+﻿<div id="mascotas" style="margin-top:1.2em">
+    <div class="input-group rounded">
+        <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+        <span class="input-group-text border-0" id="search-addon">
+            <i class="fas fa-search"></i>
+        </span>
+    </div>
+    <br />
+    <br />
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title"style="color: #00BFFF "><i class="fas fa-paw"> </i> Mascotas</h5>
+
+            <div class="card-text">
+                <table class="table">
+                    <thead>
+                        <tr style="color: #00008B">
+                            <th scope="col">#</th>
+                            <th scope="col">Raza</th>
+                            <th scope="col">Especie</th>
+                            <th scope="col">Color</th>
+                            <th scope="col">Tamaño</th>
+                            <th scope="col">Propietario</th>
+                            <th scope="col">Foto</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+
+
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="(user,index) in mascotas" :key="index">
+                            <td>{{user.idMascota}}</td>
+                            <td>{{user.raza}}</td>
+                            <td>{{user.especie}}</td>
+                            <td>{{user.color}}</td>
+                            <td>{{user.tamaño}}</td>
+                            <td>{{user.propietario}}</td>
+                            <td>{{user.imagen}}</td>
+                            <td>
+                                <div class="btn bg-info" v-on:click="deleteUser(user.idMascota)">
+                                    <i class="fas fa-trash"></i>
+                                </div>
+                            </td>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+
+    @section Scripts{
+
+        <script>
+            Vue.createApp({
+                data() {
+                    return {
+                        message: 'Hello Vue!',
+                        mascotas: [],
+                        mascota: { nombre: "", color: "", raza: "", tamaño: "" }
+                    }
+                },
+                created() {
+                    this.getPets()
+                },
+                methods: {
+
+                    getPets() {
+                        axios.get("/Api/Pets").then(res => {
+                            console.log(res)
+                            this.mascotas = res.data
+                        }).catch((error) => console.error(error))
+                    },
+                    deleteUser(id) {
+                        axios.delete("/Api/Pets/" + id).then((res) => {
+                            console.log(res)
+                            this.getPets()
+                        }).catch((error) => console.error(error))
+                    }
+                }
+
+            }).mount('#mascotas')
+        </script>
+    }

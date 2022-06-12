@@ -1,0 +1,209 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+          rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+          rel="stylesheet" />
+    <!-- MDB -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.0.0/mdb.min.css"
+          rel="stylesheet" />
+    <style>
+        .fab{
+            position:fixed;
+            bottom:20px;
+            right:20px;
+        }
+    </style>
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body style="background-color: #ECEFF1 ">
+    <nav class="navbar navbar-light" style="background-color: #1B4A79 ">
+        <!--nav class="navbar navbar-expand-lg navbar-light bg-light style="background-color: #e3f2fd;-->
+        <div class="container-fluid" style="height: 40px;">
+            <img src="~/Content/Imagenes/logo3.png" width="100" height="60" />
+
+
+
+
+
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- logo -->
+            <!-- Catalogos --><ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-toggle="dropdown"
+                       style="color:white"
+                       aria-expanded="false">
+                        <i class="fas fa-book-open"> </i> Catalogos
+                    </a>
+
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li>
+
+                            @Html.ActionLink("Usuarios", "Index", "Usuarios", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Areas Sociales", "Index", "AreasSociales", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Mascotas", "Index", "Mascotas", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Lotes", "Index", "Lotes", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Vehiculos", "Index", "Vehiculos", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+
+                    </ul>
+                </li>
+            </ul>
+
+            <!-- Pagos -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-toggle="dropdown"
+                       style="color:white"
+                       aria-expanded="false">
+                        <i class="fas fa-dollar-sign"></i> Pagos
+                    </a>
+                    </i>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li>
+
+                            @Html.ActionLink("Usuarios", "Index", "Usuarios", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+
+                    </ul>
+                </li>
+
+            </ul>
+            <!-- Panel de vigilancia -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-toggle="dropdown"
+                       style="color:white"
+                       aria-expanded="false">
+                        <i class="fas fa-binoculars"></i> Panel de vigilancia
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink" style="color:aqua">
+
+                        <li>
+                            <div class="m-l-20">
+                                @Html.ActionLink("Rondines", "Index", "Rondines", new { area = "" }, new { @class = "dropdown-item" })
+
+                            </div>
+                        </li>
+
+                        <li>
+                            @Html.ActionLink("Visitantes", "Index", "Visitantes", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Accesos", "Index", "Accesos", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Mascotas Extraviadas", "Index", "Mascotas Extraviada", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+
+
+                    </ul>
+                </li>
+            </ul>
+            <!-- Areas SOociales -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown" ">
+                    <a class="nav-link dropdown-toggle"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-toggle="dropdown"
+                       style="color:white"
+                       aria-expanded="false">
+                        
+                        <i class="fas fa-tree"></i> Areas Sociales
+                    </a>
+
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li>
+
+                            @Html.ActionLink("Calendario", "Index", "Calendario", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Autorizar", "Index", "Visitantes", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+
+                    </ul>
+                </li>
+            </ul>
+            <!-- Control de gastos -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle"
+                       href="#"
+                       id="navbarDropdownMenuLink"
+                       role="button"
+                       data-mdb-toggle="dropdown"
+                       style="color:white"
+                       aria-expanded="false">
+                        <i class="fas fa-calculator"></i> Control de gastos
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <li>
+
+                            @Html.ActionLink("Capturas", "Index", "Rondines", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+                        <li>
+
+                            @Html.ActionLink("Subir facturas", "Index", "Visitantes", new { area = "" }, new { @class = "dropdown-item" })
+                        </li>
+
+                    </ul>
+                </li>
+            </ul>
+           
+           @Html.ActionLink(".", "Index", "Home  ", new { area = "" }, new { @class = "fas fa-home" })
+        </div>
+    </nav>
+    <!--/!--nav>-->
+
+
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue@3"></script>
+
+    <!-- MDB -->
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.0.0/mdb.min.js"></script>
+   
+    @RenderSection("scripts", required: false)
+</body>
+</html>

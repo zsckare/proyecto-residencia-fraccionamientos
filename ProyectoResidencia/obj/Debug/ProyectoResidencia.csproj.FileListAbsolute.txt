@@ -1,0 +1,500 @@
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll.config
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.pdb
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe.config
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.rsp
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe.config
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.rsp
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.AppContext.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Console.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Http.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.ValueTuple.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe.config
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.rsp
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\WebGrease.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.pdb
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Razor.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.AssemblyReference.cache
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CoreCompileInputs.cache
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CopyComplete
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.pdb
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.ComponentModel.Annotations.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.dll
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.xml
+C:\Users\marle\source\repos\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll.config
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.pdb
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe.config
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.rsp
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe.config
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.rsp
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.AppContext.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Console.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Http.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.ValueTuple.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe.config
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.rsp
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.ComponentModel.Annotations.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\WebGrease.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.pdb
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Razor.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.AssemblyReference.cache
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CoreCompileInputs.cache
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CopyComplete
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.dll
+C:\Users\52618\source\repos\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.pdb
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll.config
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.pdb
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe.config
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.rsp
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe.config
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.rsp
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.AppContext.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Console.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Http.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.ValueTuple.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe.config
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.rsp
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.ComponentModel.Annotations.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\WebGrease.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.pdb
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Razor.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.AssemblyReference.cache
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CoreCompileInputs.cache
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CopyComplete
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.dll
+C:\Users\marle\Downloads\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.pdb
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll.config
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.pdb
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe.config
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.rsp
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe.config
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.rsp
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.AppContext.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Console.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Http.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.ValueTuple.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe.config
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.rsp
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.ComponentModel.Annotations.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\WebGrease.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.pdb
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Razor.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.AssemblyReference.cache
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CoreCompileInputs.cache
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CopyComplete
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.dll
+C:\Users\marle\OneDrive\Documentos\ProyectoResidencia (1)\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.pdb
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll.config
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\ProyectoResidencia.pdb
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.exe.config
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csc.rsp
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.exe.config
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\csi.rsp
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.AppContext.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Console.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Http.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.ValueTuple.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.exe.config
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\vbc.rsp
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.ComponentModel.Annotations.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\WebGrease.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\DbConnector.Core.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Data.SqlClient.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Newtonsoft.Json.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Net.Http.Formatting.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Helpers.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Http.WebHost.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Mvc.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Optimization.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.Razor.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Antlr3.Runtime.pdb
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.Razor.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.AssemblyReference.cache
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.csproj.CopyComplete
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.dll
+C:\Users\Antonio Alvarez\Desktop\ProyectoResidencia\ProyectoResidencia\ProyectoResidencia\obj\Debug\ProyectoResidencia.pdb

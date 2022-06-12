@@ -1,0 +1,202 @@
+﻿
+<div id="lotes" style="margin-top:1.2em">
+    <div class="input-group rounded">
+        <input type="search" class="form-control rounded" placeholder="Search" aria-label="Search" aria-describedby="search-addon" />
+        <span class="input-group-text border-0" id="search-addon">
+            <i class="fas fa-search"></i>
+        </span>
+    </div>
+    <br />
+    <br />
+    <div class="card">
+        <div class="card-body">
+            <h5 class="card-title" style="color: #00BFFF "><i class="fas fa-fas fa-building"></i> Lotes</h5>
+
+            <div class="card-text">
+                <table class="table">
+                    <thead>
+                        <tr style="color: #00008B">
+                            <th scope="col">#</th>
+                            <th scope="col">Nombre</th>
+                            <th scope="col">No.Lote</th>
+                            <th scope="col">Fecha de adquisición</th>
+                            <th scope="col">Dirección</th>
+                            <th scope="col">Conlindancia</th>
+                            <th scope="col">Metros</th>
+                            <th scope="col">Mensualidad</th>
+                            <th scope="col">Estado</th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+                            <th scope="col"></th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="(user,index) in lotes" :key="index">
+                            <td>{{user.idlote}}</td>
+                            <td>{{user.nombre}}</td>
+                            <td>{{user.n_lote}}</td>
+                            <td>{{user.fecha}}</td>
+                            <td>{{user.direccion}}</td>
+                            <td>{{user.colindancia}}</td>
+                            <td>{{user.metros}}</td>
+                            <td>{{user.mensualidad}}</td>
+                            <td>{{user.estado}}</td>
+                            <td>
+                                <div class="btn bg-info" v-on:click="deleteUser(user.idlote)">
+                                    <i class="fas fa-trash"></i>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="btn bg-info" v-on:click="deleteUser()">
+                                    <i class="fas fa-edit"></i>
+                                </div>
+                            </td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Agregar Lote</h5>
+                    <button type="button" class="btn-close" data-mdb-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                   
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.nombre" />
+                                <label class="form-label" for="form12">Nombre</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.n_lote" />
+                                <label class="form-label" for="form12">Numero de lote</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.fecha" />
+                                <label class="form-label" for="form12">Fecha</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.direccion" />
+                                <label class="form-label" for="form12">Direccion</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.colindancia" />
+                                <label class="form-label" for="form12">Colindancia</label>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.metros" />
+                                <label class="form-label" for="form12">Metros</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <input type="text" id="form12" class="form-control" v-model="lote.mensualidad" />
+                                <label class="form-label" for="form12">Mensualidad</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-outline">
+                                <select class="form-select" aria-label="Default select example" v-model="lote.estado">
+                                    <option value="" disabled selected>Tipo de lote</option>
+                                    <option value="En construccion ">En construccion</option>
+                                    <option value="Social">Social</option>
+                                    <option value="Interes">Interes</option>
+                                    <option value="Mixto">Mixto</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+
+                    <button type="button" class="btn btn-primary" v-on:click="saveUser">Guardar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <button type="button" class="btn btn-primary btn-floating fab" data-mdb-toggle="modal" data-mdb-target="#exampleModal">
+        <i class="fas fa-add"></i>
+    </button>
+    <br />
+    <br />
+  
+
+</div>
+
+
+
+@section Scripts{
+
+    <script>
+        Vue.createApp({
+            data() {
+                return {
+                    message: 'Hello Vue!',
+                    lotes: [],
+                    lote: { nombre: "", n_lote: "", fecha: "", direccion: "", colindancia: "", metros: "", mensualidad: "", estado: ""}
+                }
+            },
+            created() {
+                this.getlotes()
+            },
+            methods: {
+                saveUser() {
+                    console.log(this.lote)
+                    axios.post("/Api/Lotes", this.lote).then(res => {
+                        console.log(res)
+                        this.getlotes()
+                    }).catch((error) => console.error(error))
+                },
+                getlotes() {
+                    axios.get("/Api/Lotes").then(res => {
+                        console.log(res)
+                        this.lotes = res.data
+                    }).catch((error) => console.error(error))
+                },
+                deleteUser(id) {
+                    axios.delete("/Api/Lotes/" + id).then((res) => {
+                        console.log(res)
+                        this.getlotes()
+                    }).catch((error) => console.error(error))
+                }
+            }
+        }).mount('#lotes')
+    </script>
+}
