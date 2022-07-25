@@ -1,41 +1,231 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
-    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
-    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <script src="~/Scripts/modernizr-2.6.2.js"></script>
-</head>
-<body>
-    <div class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
-            </div>
-            <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                </ul>
+﻿
+
+<div id="cal" style="margin-top:1.2em">
+
+    <div id='calendar'></div>
+
+    <div class="modal fade"
+         id="exampleModal"
+         tabindex="-1"
+         aria-labelledby="exampleModalLabel"
+         aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Agregar Evento</h5>
+                    <button type="button"
+                            class="btn-close"
+                            data-mdb-dismiss="modal"
+                            aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="row">
+                        <select class="form-select" aria-label="Default select example" id="area-select">
+                            <option selected>Seleccionar area</option>
+                            <option v-for="(area,index) in areas" :key="index" :value="area.nombre">{{area.nombre}}</option>
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="form-outline">
+                            <input type="text" id="datepiker" class="form-control" />
+                            <label class="form-label" for="form12">Fecha</label>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" onclick="addEve()">
+                        Guardar
+                    </button>
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
-        </footer>
-    </div>
+    <button type="button"
+            class="btn btn-primary btn-floating fab"
+            data-mdb-toggle="modal"
+            data-mdb-target="#exampleModal">
+        <i class="fas fa-add"></i>
+    </button>
+    <br />
+    <br />
+</div>
+</div>
 
-    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
-    <script src="~/Scripts/bootstrap.min.js"></script>
-    @RenderSection("Scripts", false)
-</body>
-</html>
+<div id="areas"></div>
+
+@section Scripts{
+
+    <script>
+
+        $(function () {
+            $("#datepiker").datepicker({
+                dateFormat: "yy-mm-dd"
+            });
+        });
+        var calendar;
+        document.addEventListener('DOMContentLoaded', function () {
+
+            var calendarEl = document.getElementById('calendar');
+
+
+            calendar = new FullCalendar.Calendar(calendarEl, {
+
+                plugins: ['interaction', 'dayGrid', 'timeGrid', 'list'],
+
+                header: {
+
+                    center: 'addEventButton'
+
+                },
+                dayClick: function (date, jsEvent, view) {
+                    $('#exampleModal').modal('show');
+                },
+
+                customButtons: {
+
+                    addEventButton: {
+
+                        text: 'Agregar Evento...',
+
+                        click: function () {
+                            $('#exampleModal').modal('show');
+                            // var dateStr = prompt('Enter a date in YYYY-MM-DD format');
+
+                            // var date = new Date(dateStr + 'T00:00:00'); // will be in local time
+                            var ev = addEventoAreaSocial();
+
+                            // if (!isNaN(date.valueOf())) { // valid?
+
+                            //     calendar.addEvent({
+
+                            //         title: 'dynamic event',
+
+                            //         start: date,
+
+                            //         allDay: true
+
+                            //     });
+
+                            //     alert('Great. Now, update your database...');
+
+                            // } else {
+
+                            //     alert('Invalid date.');
+
+                            // }
+
+                        }
+
+                    }
+
+                }
+
+            });
+
+
+            calendar.render();
+
+        });
+
+
+
+        function addEventoAreaSocial() {
+            $('#exampleModal').modal({
+                backdrop: 'static',
+            });
+
+        }
+
+        function addEve() {
+            var area = $('#area-select').val()
+            fecha = $('#datepiker').val()
+            calendar.addEvent({
+
+                title: area,
+
+                start: fecha,
+
+                allDay: true
+
+            })
+            $('#exampleModal').modal('hide');
+            axios.post("/Api/Eventos", {
+
+                "area": area,
+                "fecha": fecha
+
+            }).then(res => {
+                console.log(res)
+            }).catch((error) => console.error(error))
+        }
+
+        Vue.createApp({
+            data() {
+                return {
+
+                    areas: [
+
+                    ],
+                    area: { clave: "", nombre: "", tipo: "" }
+                }
+            },
+            created() {
+                this.getSocialAreas()
+                this.getSEventos()
+            },
+            methods: {
+                //     saveUser() {
+                //     console.log(this.area)
+                //                 axios.post("/Api/SocialAreas", this.area).then(res => {
+                //     console.log(res)
+                //                     this.getAreas()
+                //                 }).catch((error) => console.error(error))
+                //             },
+                getSocialAreas() {
+                    axios.get("/Api/SocialAreas").then(res => {
+                        console.log(res)
+                        this.areas = res.data
+                        $('#areas').data('areas', res.data)
+                    }).catch((error) => console.error(error))
+                },
+                getSEventos() {
+                    axios.get("/Api/Eventos").then(res => {
+                        console.log(res)
+
+                        if (res.data.length != 0) {
+                            res.data.forEach((ev) => {
+                                calendar.addEvent({
+
+                                    title: ev.area,
+
+                                    start: ev.fecha,
+
+                                    allDay: true
+
+                                });
+                            })
+                        }
+                    }
+
+
+                    ).catch((error) => console.error(error))
+                },
+                // deleteUser(id) {
+                //     axios.delete("/Api/SocialAreas/" + id).then((res) => {
+                //         console.log(res)
+                //         this.getSocialAreas()
+                //     }).catch((error) => console.error(error))
+                // }
+            }
+
+        }).mount('#cal')
+
+
+    </script>
+}
+

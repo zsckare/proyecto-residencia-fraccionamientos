@@ -14,4 +14,6 @@ namespace ProyectoResidencia.Models
         public string tipo { get; set; }
 
     }
+   
+
 }
